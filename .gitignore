@@ -1,7 +1,8 @@
-.next
-node_modules
+.next/
+node_modules/
 .env.local
 .env
+.env.*.local
 .DS_Store
 *.pem
 npm-debug.log*
